@@ -1,6 +1,6 @@
 Le fichier cycle.txt contient les information selon le format suivant :
 
-Mois Jour Luminosité
+Mois  Jour  Luminosité
 
 ...
 
